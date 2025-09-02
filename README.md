@@ -1,11 +1,11 @@
-# 🏀⚽ Sports Injury Prediction
+# Sports Injury Prediction
 
 ## Overview  
 This project investigates **injury prediction in football and basketball players** using machine learning models. The analysis integrates player workload, performance metrics, and injury history to **identify risk factors** and **evaluate model efficacy**.
 
 ---
 
-## 🔍 Methodology  
+## Methodology  
 
 ### 1. Exploratory Data Analysis (EDA)  
 - Examine workload distributions (minutes played, distance covered, intensity).  
@@ -29,7 +29,7 @@ This project investigates **injury prediction in football and basketball players
 
 ---
 
-## 🎯 Goal  
+## Goal  
 By combining workload monitoring, performance statistics, and medical history with advanced ML models, this project aims to:  
 - Detect early warning signals of injury risk.  
 - Provide interpretable insights for **sports scientists, coaches, and medical staff**.  
